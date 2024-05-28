@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-dementia-alzheimer-vascular-mixed-nonspecific---primary.py
+inputModule3:
+  class: File
+  path: python/arteriosclerotic-dementia-alzheimer-vascular-mixed-nonspecific---primary.py
+inputModule4:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-depression---primary.py
+inputModule5:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-delirium---primary.py
+inputModule6:
+  class: File
+  path: python/depressive-dementia-alzheimer-vascular-mixed-nonspecific---primary.py
+inputModule7:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-alzheimer's---primary.py
+inputModule8:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-presenile---primary.py
+inputModule10:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-dementium---primary.py
+inputModule11:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-degen---primary.py
+inputModule12:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-uncomplicated---primary.py
+inputModule13:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-onset---primary.py
+inputModule14:
+  class: File
+  path: python/subcortical-dementia-alzheimer-vascular-mixed-nonspecific---primary.py
+inputModule15:
+  class: File
+  path: python/dementia-alzheimer-vascular-mixed-nonspecific-paranoia---primary.py
+inputModule16:
+  class: File
+  path: python/early-dementia-alzheimer-vascular-mixed-nonspecific---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
